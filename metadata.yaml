@@ -1,5 +1,8 @@
 _repo: The-Battles-of-the-World-or-cyclopedia-of-battles-sieges-and-important-military-events_60652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60652-h/images/cover.jpg
 creator:
   author:
     agent_name: Borthwick, J. Douglas (John Douglas)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51071'
     url: http://www.gutenberg.org/2009/agents/51071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60652#The-Battles-of-the-World-or-cyclopedia-of-battles-sieges-and-important-military-events
 gutenberg_issued: '2019-11-08'
 gutenberg_type: Text
 identifiers:
