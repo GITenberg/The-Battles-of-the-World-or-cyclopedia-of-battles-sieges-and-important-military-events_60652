@@ -1,0 +1,28 @@
+_repo: The-Battles-of-the-World-or-cyclopedia-of-battles-sieges-and-important-military-events_60652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Borthwick, J. Douglas (John Douglas)
+    alias: Borthwick, John Douglas
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '51071'
+    url: http://www.gutenberg.org/2009/agents/51071
+description: ''
+gutenberg_issued: '2019-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Military history'
+- !lcsh 'Battles'
+- GITenberg
+title: 'The Battles of the World
+
+  or, cyclopedia of battles, sieges, and important military events'
+url: http://www.gutenberg.org/ebooks/60652
